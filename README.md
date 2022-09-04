@@ -5,8 +5,17 @@ I'm Eabha and I am passionate about vegan food.   I love plant based products, s
 
 ![vegan](https://user-images.githubusercontent.com/112539126/188310681-2998638d-a6d0-471c-b441-a690d45667e2.jpg) ![v](https://user-images.githubusercontent.com/112539126/188310715-3d39f5e9-3177-4c25-a1e8-5951c9d0ee33.jpg) ![apple](https://user-images.githubusercontent.com/112539126/188311473-c7eaddee-7d3a-48db-9a68-6ec7b921be9a.jpg)
 
-[Click here for the link to the photos](![apple](https://user-images.githubusercontent.com/112539126/188311648-4b55ce3d-4247-4c8a-b309-fdfdd2f179e2.jpg)
-)
+[Click here for the link to the photos](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/199px-Red_Apple.jpg)
+
+# Amount of iron in popular vegan foods: 
+
+| Name          |  Amount       |Iron (mg) |
+| ------------- |:-------------:| -----:   |
+| chickpeas     | 1 cup         | 4.7      |
+| soybeans      | 1 cup         | 4.5      |
+| Tempeh        | 1 cup         | 4.5      |
+
+
 
 
 
