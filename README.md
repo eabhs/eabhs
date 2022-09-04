@@ -1,4 +1,10 @@
-### Hi there 👋
+
+# Veganism 
+### Hi there 👋 
+I'm Eabha and I am passionate about vegan food.   I love plant based products, such as protein bars and vegan curries. I love to bake delicious vegan recipes and find even better alternatives for meat and even make some of my own. My favourite dairy alternative is nutritional yeast, which is a replacement for cheese. It is a powder with a cheesy flavour that you can add to a variety of dishes, and it is also much healthier than cheese and contains essentail B vitamins. 
+
+![vegan](https://user-images.githubusercontent.com/112539126/188310681-2998638d-a6d0-471c-b441-a690d45667e2.jpg) ![v](https://user-images.githubusercontent.com/112539126/188310715-3d39f5e9-3177-4c25-a1e8-5951c9d0ee33.jpg) 
+
 
 <!--
 **eabhs/eabhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
