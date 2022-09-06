@@ -21,10 +21,8 @@ Did you know? Being vegan can reduce your carbon footprint [^1] by 73% ??
 
 [^1]: A carbon footprint is the amount of carbon you put into the atmosphere and the amount you take out, measured. It determines what impact you are having on climate change. 
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-
+> Veganism is becoming more and more imporatant due to the growing population 
+> having to be less dependent on meat, and the threat of climate change
 <!--
 **eabhs/eabhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
