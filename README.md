@@ -15,10 +15,14 @@ I'm Eabha and I am passionate about vegan food.   I love plant based products, s
 | soybeans      | 1 cup         | 4.5      |
 | Tempeh        | 1 cup         | 4.5      |
 
+Did you know? Being vegan can reduce your carbon footprint [^1] by 73% ?? 
 
 
 
+[^1]: A carbon footprint is the amount of carbon you put into the atmosphere and the amount you take out, measured. It determines what impact you are having on climate change. 
 
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
 
 
 <!--
