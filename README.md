@@ -23,6 +23,18 @@ Did you know? Being vegan can reduce your carbon footprint [^1] by 73% ??
 
 > Veganism is becoming more and more imporatant due to the growing population 
 > having to be less dependent on meat, and the threat of climate change
+
+ <dl>
+  <dt> Benefits of veganism: </dt>
+  <dd> 1. Veganism reduces your carbon footprint and is better for the environment 
+        2. It is great for your physical and mental health and wellbeing 
+    
+       3. It decreases your blood sugars and pressure and helps reduce your risk of developing serious diseases such as cancer
+    
+       4. It gives you more energy and nutrition
+    
+        5. You are protecting the rights of animals .</dd>
+
 <!--
 **eabhs/eabhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
